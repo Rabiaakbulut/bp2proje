@@ -1,3 +1,3 @@
 # BP2 Python
-proje
+Python proje
 Tez yazım programı
